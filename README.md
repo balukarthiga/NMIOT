@@ -45,6 +45,7 @@ appropriate actions.
 8. Iterate:
 • Design thinking is an iterative process. Use the insights gained from ongoing
 evaluations to refine and enhance the system over time.
+
 PHASE 2 PROJECT:
 The creation and innovation of air quality monitoring systems have evolved 
 significantly over the years. Initially, air quality monitoring involved manual 
